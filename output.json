@@ -1,0 +1,56 @@
+{
+    "number_article_1": {
+        "title": "How artificial intelligence will change the future of marketing",
+        "content": " The application of Artificial intelligence in marketing is in order to continuously follow and anticipate the next purchasing decisions of the target consumers. Machine learning allows marketers to understand and draw logical conclusions from large data collections. In the following years, marketers can expect greater impact of Artificial Intelligent, through refined content delivery, preventing fraud and data breaches, image and voice recognition, sales forecast and predictive customer service. In the transportation industry, driverless, AI-enabled cars may be just around the corner, promising to alter both business models and customer behavior; demand for automobile insurance and breathalyzers (fewer people will drive, especially after drinking) will likely diminish, whereas demand for security systems that protect cars from being hacked will increase. Driverless vehicles could positive impact, because cars can move at faster speeds, and so commute times will reduce and more productive for passengers, who can safely work while being driven to their destination.  AI will affect sales processes in various industries. Most salespeople still rely on a telephone call as a critical part of the sales process. In the future, salespeople will be assisted by an AI agent that monitors tele-conversations in real time, the danger remains that if customers discover that they are interacting with a bot, they may become uncomfortable, triggering negative consequences. With AI, online retailers may be able to predict what customers will want. The three use cases illustrate why so many academics and practitioners anticipate that AI will change the face of marketing strategies and customer behaviors. In fact, a survey by Salesforce shows that AI will be the technology most adopted by marketers in the coming years. In fact, a survey by Salesforce shows that AI will be the technology most adopted by marketers in the coming years.",
+        "question_answer": [
+            {
+                "question": "What the text is about",
+                "answer": " The given text delineates on how Artificial Intelligence (AI) will transform marketing in future, and the three use cases that demonstrate its impact on sales processes and customer behavior. Additionally, it highlights how AI will be a major technology adoption for marketers over the next few years, as per a survey conducted by Salesforce."
+            },
+            {
+                "question": "What machine learning techniques are used?",
+                "answer": " The answer depends on the specific use cases mentioned in the context. However, some commonly used machine learning techniques that could be applied to these scenarios include natural language processing (NLP) for text analysis and sentiment analysis, image recognition for driverless cars, predictive modeling for sales forecasting and customer behavior prediction, and clustering or classification algorithms for segmentation and targeting of potential customers. Additionally, reinforcement learning may also be used in certain scenarios such as driverless vehicles to improve decision-making based on feedback from previous actions taken."
+            },
+            {
+                "question": "Does the text mention predictive analytics?",
+                "answer": " Yes, the text mentions that machine learning allows marketers to understand and draw logical conclusions from large data collections which can be used for predictive analytics."
+            }
+        ]
+    },
+    "number_article_3": {
+        "title": "Spotify personalizes audio experiences with machine learning",
+        "content": " In 2008, the Spotify platform incorporated machine learning into its business model, transitioning from user curated playlists to Machine Learning driven recommendations. Tony Jebara, Spotify's VP of Engineering and Head of Machine Learning, outlined the company's Machine Learning approach at the MIT Technology Review's EmTech Digital conference. Spotify utilized raw data from playlists, user listening behaviors, audio analytics, and browsing patterns to build ML models. These models employ techniques like collaborative filtering to map content and users into a high-dimensional vector space, facilitating personalized playlist creation. Consumers using the platform during the early stages of Spotify mainly curated their own playlists and organized their own content mix.  To build a machine learning approach to audio personalization, Spotify invested in data, modeling and experience building. The audio streaming provider used raw data from playlists, listening behaviors from users, content, audio analytics and information gained from what users are browsing and skipping through. Using that data, Spotify built machine learning models to understand the similarities between specific pieces of music or podcasts, and what content users prefer.",
+        "question_answer": [
+            {
+                "question": "What the text is about",
+                "answer": " Spotify personalizes audio experiences with machine learning by utilizing raw data from playlists, listening behaviors of users, and other factors to build ML models that facilitate personalized playlist creation for consumers. The company also invested in data, modeling, and experience building to achieve this goal."
+            },
+            {
+                "question": "What machine learning techniques are used?",
+                "answer": " Collaborative filtering, content-based recommendation and user behavior analysis are some of the Machine Learning techniques that Spotify uses to personalize audio experiences for its users."
+            },
+            {
+                "question": "Does the text mention predictive analytics?",
+                "answer": " No, the text does not explicitly mention predictive analytics."
+            }
+        ]
+    },
+    "number_article_2": {
+        "title": "How Does Facebook Use Machine Learning to Deliver Ads?",
+        "content": " Delivering personalized ads maximizes value for both people and businesses. Advertisers select their target audience based on factors such as age, gender, and user interactions, this approach ensures targeted and efficient advertising. Facebook is a social network platform, created in 2004 to share posts, images and videos with your contacts. It uses machine learning to generate the estimated action rate and the ad quality score used in the total value equation. To find the estimated action rate, machine learning models use predictive analytics to deduce the a particular person\u00e2\u20ac\u2122s likelihood of taking the advertiser\u00e2\u20ac\u2122s desired action, based on the business objective the advertiser selects for their ad, like increasing visits to their website or driving purchases. To do this, our models consider that person's behavior while using Facebook app, considering the feedback of people viewing or hiding the ad. The advertiser\u00e2\u20ac\u2122s bid, the estimated action rate and the ad quality score are combined to calculate the ad\u00e2\u20ac\u2122s total value score in the ad auction. Over time, as more people view an ad, share feedback on it or click through to make a purchase on an advertiser\u00e2\u20ac\u2122s website, our models get better at predicting the estimated action rate and ad quality.",
+        "question_answer": [
+            {
+                "question": "What the text is about",
+                "answer": " This context delimited by three backticks is a description of how Facebook uses machine learning to deliver ads on its platform, including how it calculates the estimated action rate and ad quality score used in the total value equation."
+            },
+            {
+                "question": "What machine learning techniques are used?",
+                "answer": " Facebook uses a variety of machine learning techniques to deliver personalized ads, including predictive analytics and feedback models. These techniques allow the platform to analyze user behavior and make predictions about how likely they are to take a desired action (like visiting a website or making a purchase) based on factors such as age, gender, past interactions with the platform, and other relevant data. By combining these estimates with an advertiser's bid and ad quality score, Facebook can calculate the total value score of each ad in its auction system and deliver the most valuable ad to each individual user. Over time, this process becomes more accurate as more people interact with the ads and provide feedback, allowing Facebook to refine its models and improve the overall effectiveness of its advertising platform."
+            },
+            {
+                "question": "Does the text mention predictive analytics?",
+                "answer": " Yes, it does. The text mentions that machine learning models use predictive analytics to deduce a person\u00e2\u20ac\u2122s likelihood of taking the advertiser\u00e2\u20ac\u2122s desired action based on their behavior while using Facebook app."
+            }
+        ]
+    }
+}
